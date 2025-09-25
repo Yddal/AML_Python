@@ -1,4 +1,2 @@
 Tetst = True
 
-
-sometext = "Text"
