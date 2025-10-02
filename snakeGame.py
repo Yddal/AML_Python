@@ -2,6 +2,11 @@ import turtle # This module provides a way to draw graphics
 import time   # This module provides time-related functions, like pausing
 import random # This module generates random numbers, useful for food placement
 
+
+# OBS! LAGET MED AI
+
+
+
 # --- 1. Screen Setup ---
 # Create the game window. Think of this as your canvas.
 screen = turtle.Screen()

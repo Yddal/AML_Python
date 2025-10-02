@@ -6,7 +6,6 @@ lengde_list = np.array(lengde_list)
 lengde_list = lengde_list * 1
 speed = 10000
 
-
 tu = t.Turtle()
 tu.color('green')
 tu.speed(speed)
@@ -22,8 +21,6 @@ def rectangle():
     for lengde in lengde_list:
         tu.forward(lengde)
         tu.right(90)
-    #tu.left(45)
-#rectangle()
 
 def petal(current_angle):
     tu.begin_fill()
@@ -46,6 +43,5 @@ def draw(Start,move,y):
 draw(Start,move,-300)
 draw(Start,move, 0)
 draw(Start,move, 300)
-
 
 t.exitonclick()
