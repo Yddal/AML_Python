@@ -23,7 +23,6 @@ Kode er primært kopiert, utenom at jeg lagde en funksjon for å loope igjennom 
 ### 6. Kjør video for å se bildegjenkjenning i sanntid
 Vi kjørte opp koden for å sjekke video. Endret parameter slik at den brukte webkamera på PC til å hente video. På Skiftnøkler så var den ganske god, men skrujern ble den litt overfølsom på objekter.
 
-
 ### Læringsutbytte
 Maskin er tidkrevende og lang prosess.
 Viktigheten av å velge riktig treningsdata for å få en god modell er viktig. Mulig kanskje at mengden treningsdata kan gjøre opp for dårlig treningsdata?
